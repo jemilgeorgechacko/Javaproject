@@ -4,7 +4,7 @@ public class Student {
 	String name;
     int roll;
 
-    Student(String n, int r) { // parameterized constructor
+    Student(String n, int r) { 
         name = n;
         roll = r;
     }
